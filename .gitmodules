@@ -1,0 +1,15 @@
+[submodule "Android-Architecture"]
+	path = Android-Architecture
+	url = https://github.com/jeanboydev/Android-Architecture.git
+
+[submodule "Android-CleanArchitecture"]
+	path = Android-CleanArchitecture
+	url = https://github.com/android10/Android-CleanArchitecture.git
+
+[submodule "Android-Flavors"]
+	path = Android-Flavors
+	url = https://github.com/jeanboydev/Android-Flavors.git
+
+[submodule "Fragmentation"]
+	path = Fragmentation
+	url = https://github.com/YoKeyword/Fragmentation.git
